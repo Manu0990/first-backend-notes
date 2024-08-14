@@ -1,0 +1,3 @@
+This is a dummy text written by Manu.
+I am just testing if the code is running well or not.
+So far it seems to work fine though.
